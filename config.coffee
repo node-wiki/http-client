@@ -13,6 +13,7 @@ exports.config =
           'vendor/scripts/underscore.js',
           'vendor/scripts/backbone.js',
           'vendor/scripts/backbone.marionette.js',
+          'vendor/scripts/bootstrap.js',
         ]
 
     stylesheets:
